@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de373dc23c0ecf64c8c4bf0420acb662, type: 3}
+  m_Name: GameItemInfoSO
+  m_EditorClassIdentifier: 
+  gameItemInfos:
+  - itemType: 1
+    itemIcon: {fileID: 21300000, guid: 300843354784741d09b788987261c269, type: 3}
+    itemColor: {r: 1, g: 0.72654295, b: 0.09019607, a: 1}
+  - itemType: 2
+    itemIcon: {fileID: 21300000, guid: dab24a3eba35e470a90557d7a4ed1a12, type: 3}
+    itemColor: {r: 1, g: 1, b: 1, a: 1}
+  - itemType: 3
+    itemIcon: {fileID: 21300000, guid: f8b7b2b57b805423bb1408d8a5abebe6, type: 3}
+    itemColor: {r: 1, g: 1, b: 1, a: 1}
+  - itemType: 4
+    itemIcon: {fileID: 21300000, guid: f8b7b2b57b805423bb1408d8a5abebe6, type: 3}
+    itemColor: {r: 0.81631243, g: 0.3443396, b: 1, a: 1}
+  - itemType: 5
+    itemIcon: {fileID: 21300000, guid: f8b7b2b57b805423bb1408d8a5abebe6, type: 3}
+    itemColor: {r: 1, g: 0.60990745, b: 0, a: 1}
+  - itemType: 6
+    itemIcon: {fileID: 21300000, guid: e213ee489234b40d89e5fefb55d5965c, type: 3}
+    itemColor: {r: 1, g: 1, b: 1, a: 1}
